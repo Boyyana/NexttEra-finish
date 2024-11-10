@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "6726715a48f93bac74e8688c"
+  },
+  "name": "Multimeter Xhin 22",
+  "price": 69,
+  "stock": 100,
+  "images": [
+    "img/product-2/7.png"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6726715a48f93bac74e8688d"
+  },
+  "name": "Arduino Pro",
+  "price": 37,
+  "stock": 100,
+  "images": [
+    "img/product-2/2.png"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6726715a48f93bac74e8688e"
+  },
+  "name": "Yokogawa 2+",
+  "price": 1248,
+  "stock": 100,
+  "images": [
+    "img/product-2/6.png"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6726715a48f93bac74e8688f"
+  },
+  "name": "AA Betery xhen",
+  "price": 3.99,
+  "stock": 100,
+  "images": [
+    "img/product-2/3.png"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6726715a48f93bac74e86890"
+  },
+  "name": "Duracell 1.5V",
+  "price": 6.99,
+  "stock": 100,
+  "images": [
+    "img/product-2/4.png"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6726715a48f93bac74e86891"
+  },
+  "name": "Arduino Nano 2 PRO",
+  "price": 45.49,
+  "stock": 100,
+  "images": [
+    "img/product-2/1.png"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6726715a48f93bac74e86892"
+  },
+  "name": "Xhin 2",
+  "price": 849,
+  "stock": 100,
+  "images": [
+    "img/product-2/5.png"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6726715a48f93bac74e86893"
+  },
+  "name": "Led Diode 227 Red",
+  "price": 1.99,
+  "stock": 100,
+  "images": [
+    "img/product-2/9.png"
+  ],
+  "__v": 0
+}]
